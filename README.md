@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información de la estudiante
-Fernanda An tunez Rubio \[22211745]; L22211745@tectijuana.edu.mx
+Fernanda Antunez Rubio \[22211745]; L22211745@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
