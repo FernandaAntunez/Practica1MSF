@@ -1,8 +1,8 @@
-[![Open in MATLAB Online]
+[Open in MATLAB Online]
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Fernanda An tunez Rubio \[22211745]; L22211745@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
